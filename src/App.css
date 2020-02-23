@@ -14,3 +14,13 @@ body {
 .cardContainer {
   padding: 15px;
 }
+
+.taskDetail {
+  float: left;
+  padding-bottom: 10px;
+}
+
+.question {
+  width: 50px;
+  variant: 'h5';
+}
